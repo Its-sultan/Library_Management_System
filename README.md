@@ -1,3 +1,4 @@
+ HEAD
 # Fastapi Template
 
 This is a template for fastapi projects. It includes a basic structure for the project, a docker-compose file for development and a dockerfile for production.
@@ -8,7 +9,7 @@ The guides on [fastapi](https://fastapi.tiangolo.com/learn/), [SQLmodel ORM](htt
 
 The project structure is as follows:
 
-```text
+text
 └── Project Directory
     ├── Virtual Environment(if you have to use one)
     └── Project
@@ -42,7 +43,7 @@ The project structure is as follows:
             │   └── README.md
             └── utilities
                 └── README.md
-```
+
 
 ## Usage
 
@@ -51,3 +52,7 @@ The project structure is as follows:
     Resources on how to create a virtual environment:
     - [Python Docs](https://docs.python.org/3/library/venv.html)
     - [Real Python](https://realpython.com/python-virtual-environments-a-primer/)
+
+# Library_Management_System
+a library management system API
+7a32c31dcdb27854b7a16bf72fc5a7efc4f944c3
