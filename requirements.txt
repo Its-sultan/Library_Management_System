@@ -1,0 +1,6 @@
+#Sample requirements.txt file
+fastapi[standard]
+python-dotenv
+uvicorn
+sqlalchemy
+pydantic
